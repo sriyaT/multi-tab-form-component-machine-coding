@@ -1,0 +1,19 @@
+.tabs {
+}
+.tab-header-container {
+  display: flex;
+}
+.tab-header {
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 5px;
+}
+.tab-body {
+  border: 1px solid black;
+  height: 200px;
+}
+.button-container {
+  width: 500px;
+  display: flex;
+  justify-content: flex-end;
+}
